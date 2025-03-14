@@ -61,4 +61,3 @@ The dataset used in this project is derived from Stack Overflow's annual develop
 6. [FAISS Library](https://faiss.ai/index.html)
 7. [RAG Use Case](https://cloud.google.com/use-cases/retrieval-augmented-generation)
 8. [K-Means Clustering](https://en.wikipedia.org/wiki/K-means_clustering)
-![image](https://github.com/user-attachments/assets/60a77abf-2095-4150-beb0-cafc6aa21367)
